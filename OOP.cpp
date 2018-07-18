@@ -21,7 +21,6 @@ class mobil{
 	}
 	void tampildata()
 	{
-		cout<<"Penjualan Mobil"<<endl;
 		cout<<"Nama Perusahaan Mobil = "<<nama_pr<<endl;
 		cout<<"Tipe Mobil = "<<nama_tipe<<endl;
 		cout<<"Tipe Bahan Bakar Mobil = "<<tipe_fuel<<endl;
